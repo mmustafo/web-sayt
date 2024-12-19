@@ -100,6 +100,10 @@ main {
           text-decoration-skip-ink: none;
 }
 
+.nav__btn_a:active {
+  background-color: #755CDE;
+}
+
 .easy__text {
   text-align: center;
 }
@@ -328,6 +332,10 @@ main {
   background-color: #EB7565;
 }
 
+.project__text_a:hover {
+  background-color: #755CDE;
+}
+
 .project__imgg {
   width: 445px;
   height: 445px;
@@ -434,6 +442,10 @@ main {
   text-underline-position: from-font;
   -webkit-text-decoration-skip-ink: none;
           text-decoration-skip-ink: none;
+}
+
+#book__btn_aa:active {
+  background-color: rgb(79, 79, 180);
 }
 
 .footerbtn {
