@@ -108,7 +108,10 @@
      text-align: left;
      text-underline-position: from-font;
      text-decoration-skip-ink: none;
+}
 
+.nav__btn_a:active{
+  background-color: #755CDE;
 }
 
 // nav end
@@ -350,6 +353,10 @@
   background-color: #EB7565;
 }
 
+.project__text_a:hover{
+  background-color: #755CDE;
+}
+
 .project__imgg{
   width: 445px;
   height: 445px;
@@ -461,6 +468,9 @@
   text-align: left;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
+}
+#book__btn_aa:active{
+  background-color: rgb(79, 79, 180);
 }
 // book end
 
